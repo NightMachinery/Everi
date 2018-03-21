@@ -1,0 +1,2212 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">140951298876019</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">791544463055100</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">352390902183842</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">147900622359213</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">315426787666968</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">342052514537641</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">767312162359127</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2015</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.53217931242728E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">142915199991069</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">789143152901606</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">338102975111030</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">142251229054416</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">319720195620487</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">333046099583105</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">750670282567535</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2014</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.50401617955168E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">137699623795032</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">743028944233378</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">339090205071999</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">142791331312172</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">293806197075994</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">336502211613250</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">740911257482825</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2013</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.42231481625281E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">131567347503923</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">782813165853121</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">352959469893493</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">147317574645722</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">309149531907147</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">330350035419914</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">751802379546584</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2012</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.47803687567122E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">126874911684548</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">992373449056898</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">385560061093168</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">152862082926350</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">339348259524653</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">314708155366942</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">719820754448897</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2011</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.65445430541917E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">126992323419119</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">966771537928826</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">365017284464611</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">149134155003712</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">324919222603556</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">289682286146549</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">684494644021938</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2010</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.54904938047318E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">121031447127586</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">899037413545940</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">330375977487600</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">147620368250696</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">302117899710159</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">266335831821591</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">650120569293129</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2009</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.39451456286777E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">110429807405254</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">892116859990363</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">305632009200910</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">152441782685456</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">288367819617723</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">237301061648918</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">663274837181795</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2008</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.34917765901146E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">143459288929888</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">879399538302239</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">296415869714311</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">134763089655777</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">297156409773421</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">204061359108161</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">683746648081450</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2007</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.34926716032864E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">139430245918044</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">863139388224393</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">290782554054834</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">109548441331546</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">278218506818705</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">173442690636424</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">615160274095763</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2006</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.17848132923828E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">131988540210602</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">821914732491287</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">269426931898688</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">113281088117662</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">266561319397183</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">151218028090755</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">561480282536071</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2005</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">2.04644399084356E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">118612384645719</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">788901973423895</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">243810202355901</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">110288429152728</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">244453975043183</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">135684176844113</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">523342060284798</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2004</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.91876813764291E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">118239474690345</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">763929896243804</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">234210089033449</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">110003788840184</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">217691086891479</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">124749749292227</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">498799334537504</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2003</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.82978602636806E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">112662116743709</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">677717738091411</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">211949307740988</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">111195038783693</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">197186298409225</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">104637163284733</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">481413565718533</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2002</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.68498420528647E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">99209931955957.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">636989938345632</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">188328195174434</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">93592791755733.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">180966848153396</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">98247872298795</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">452618523325380</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2001</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.55878095608087E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">101507041230784</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">652035822471780</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">165656283449449</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">82076042437206.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">166583396075659</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">92614165259023</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">437497014237414</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">2000</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.5249095026238E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">98099440491984.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">595339784530089</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">147985138937959</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">75419631579022</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">156932657223692</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">87830000526928.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">432435590637317</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1999</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.4409158882518E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">105827434063540</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">601991073408282</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">134324164850598</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">67037310280420.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">155328303705733</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">77277338565047</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">424246970512197</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1998</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.42481087778799E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">95714740012415.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">597132237237173</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">138487939217088</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">72531852721452.2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">147729602768325</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">75078623070709.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">412369080059985</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1997</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.39274449828075E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">94782147306337.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">603366191576365</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">123991070000274</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">77488297882348.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">142314684244682</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">73338749092209.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">391864722478745</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1996</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.37475407888677E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">91765551381806.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">575648997297542</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">104757863236832</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">64751423811974.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">130900002103470</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">63510599022645.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">380378937541320</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1995</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.29685589651575E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">88484386519998.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">569986440994853</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">104770322585509</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">69170661730179.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">132122503121125</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">57661046133550.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">367524957048144</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1994</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.27527569922685E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">86654824131914.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">591250795398202</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">101396870784086</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">70137836063960.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">136813117290842</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">52277743207245</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">355168651696180</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1993</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.28068170771776E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">85827637691110.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">575211305125131</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">106999603419695</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">70032586788728.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">147029173546619</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">44757320071325.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">349158819936676</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1992</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.26205930758528E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">77822969457738.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">573347316870249</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">107983507564892</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">66332751963975</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">138007056241488</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">43584941036954.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">338113320991344</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1991</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.22483575358613E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">73682723955079.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">498124972477515</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">89104059103584.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">51291733592374.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">122722025044785</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">42963115063891.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">305022785643330</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1990</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.08348932229374E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">66363607533684.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">410956843287456</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">69544955496594.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">49784282183551</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">115173002581822</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">39305328318363.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">270738360222323</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1989</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">947316834472963</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">63605365749183.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">388620966810347</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">67161089177645.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">50017519573024.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">105875742317565</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">35650584626970.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">257246918076996</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1988</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">896506276577092</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">64016437180069.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">363973814398721</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">65809406479494</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">76148547603422.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">109416870159350</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">38218074478041</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">292130894844563</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1987</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">946437170540810</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">62465207193053.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">320567475066950</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">59226402193836.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">80659507340164.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">109767128559738</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">46697306613314.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">321103759515491</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1986</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">948839940787495</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">59630160383860.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">363608779252498</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">63245336628419.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">71017679177112.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">123022158863652</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">53915860092900.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">380193521562244</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1985</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.0552770594684E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">55265114804853.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">360146496101564</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">64607337515106.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">77106602836942.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">129290988407511</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">53878763823865.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">361681989897505</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1984</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.04239562192184E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">51485791282638</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">420919524777699</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">57539378368281.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">95323076886363.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">112617259020648</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">52887746508469.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">388592488553958</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1983</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.12256349135378E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49243545760609.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">406323567252673</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">51420692566722.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">77746031308801.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">78955913630179.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">45759020693164.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">389080150879831</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1982</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.04261286188279E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">45970044386838.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">219451462727583</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">53773239552818.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">69846709361069.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">76909694030741.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">43747855979314.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">405522402085399</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1981</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">871386131255348</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">45134352221428.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">204394282492996</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">49774941495308.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">86180052462321.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">82517167350331.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">53703448283187.2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">454907308733829</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1980</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">941995650986790</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">43529823205169.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">481479500755358</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">44321778854290.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">88128773155753.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">95099826982045.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">52964317012502.2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">448611446604105</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1979</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.20188150612876E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">41039623848127.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">610680827853169</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">50878987668607.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">114629627432488</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">107572677242029</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">48356710711974.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">443886927059299</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1978</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.35160681464017E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">38466915472946.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">839113330198654</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">56817105170795.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">91945585343601</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">105007992692087</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">51980909188189.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">430907071458982</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1977</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.51888163305433E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">40033255666203.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">902277233002869</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">54124057963026.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">113128145514796</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">110041073920777</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">51513044384820.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">396784942804932</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1976</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.57350351580061E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">35832897899287.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">789183226472004</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">41623572552253.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">66025872105883.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">94699803875744.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">48711027640574.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">350443752955096</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1975</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.344660675901E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">32622977459632.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">885615314052111</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">38471365954655</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">59149770685671.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">75470625604569.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">40040844838410.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">302843448806238</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1974</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.34303555249444E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">31539518568493.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">881378414896808</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">33080112444850.2</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">54325272404933.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">61725915984164</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">29962014448467.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">205376890119884</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1973</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.20863276644947E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">29810893167785.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">796735431891274</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">27951972742700.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">39980681875533.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">69601772136431</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">25316955184009.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">190322456875490</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1972</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">1.10129287198153E+15</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">26258702724478.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">701732610575977</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">23917561025316.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">37452481124098.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">51466641970185.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">17402965558321.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">163063927569639</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1971</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">952071313594745</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">26426702136113.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">608725377899187</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">20595104316880.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">34158372365013.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">42969599538498.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">15405593047062.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">143848808834357</field>
+        </record>
+        <record>
+            <field name="Country or Area">Iran, Islamic Republic of</field>
+            <field name="Year">1970</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">832865237376128</field>
+        </record>
+    </data>
+</ROOT>

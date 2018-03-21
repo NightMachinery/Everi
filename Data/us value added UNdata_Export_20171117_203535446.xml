@@ -1,0 +1,2212 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">148112421383.648</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2479379812969.22</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1833978949738.28</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">528070639233.954</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">2118144160257.56</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1573159233226.84</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7790180910219.58</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2015</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">14602588491872.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">144573899371.069</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2440481986214.16</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1806258242809.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">503440320910.973</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">2052084099445.54</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1492347587859.43</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7623439037654.28</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2014</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">14223019246800</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">145483805031.447</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2395307248540.19</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1788896831203.92</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">495060934265.01</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1989630513324.99</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1471780878594.25</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7448623681358.09</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2013</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13911331572571.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">124353773584.906</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2343094762260.17</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1754269927393.48</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">481772412008.282</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1933686174208.55</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1421722284345.05</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7648344829588.33</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2012</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13923416048067</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">135474842767.296</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2310378741713.13</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1748802521528.68</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">464336516563.147</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1889616812734.75</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1391066246006.39</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7495439684967.36</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2011</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13654778772021.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">141844182389.937</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2291643113667.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1744006551471.83</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">466875724637.681</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1853200214630.66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1363611629392.97</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7373868216820.48</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2010</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13459316186738.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">139215566037.736</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2192163586073.67</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1656240299431.53</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">488628273809.524</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1801829940976.57</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1304627859424.92</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7269754394063.64</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2009</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13171247021875.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">123342767295.597</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2311139579400.27</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1792829526650.53</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">560487862318.841</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1956996315507.06</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1371663690095.85</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7261091863925.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2008</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13564288762882.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">115558018867.925</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2359547877244.59</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1846256633083.81</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">613726591614.907</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">2011885101055.27</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1333440654952.08</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7206613003927.89</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2007</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13627419564138.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">133857232704.403</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2282132642578.04</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1788800911802.78</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">637764428053.83</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">2008542514755.86</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1264852619808.31</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">7112995199971.41</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2006</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13433310780059.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">128600000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2166200000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1704200000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">654100000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1967200000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1214600000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6963194000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2005</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">13093894000000</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">122736163522.013</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2144040602362.03</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1666599594754.32</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">652153273809.524</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1901227901985.33</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1151541693290.73</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6735156685502.85</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2004</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">12707932767183.3</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">115456918238.994</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2034955498968.26</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1565500545955.99</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">630062163561.077</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1834552101591.84</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1047155942492.01</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6620152721073.24</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2003</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">12289515018303.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">105346855345.912</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1991587750801.25</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1490299735464.63</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">619143568840.58</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1743334680736.9</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">1014462635782.75</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6521112549210.81</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2002</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">12001799376426.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">101505031446.541</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1975419949949.51</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1475719986491.81</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">639372593167.702</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1707973636201.04</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">983709584664.537</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6392875500687.17</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2001</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">11809954235657.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">106964465408.805</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">2046082750142.69</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1537875758428.55</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">650799029503.106</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1684663494902.52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">990015415335.463</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6229678663639.78</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">2000</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">11712658680650.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">93113679245.283</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1976466101769.33</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1447807440760.96</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">627438315217.391</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1606904382042.57</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">985067763578.275</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">6008218842149.29</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1999</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">11299879943131.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">88564150943.3962</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1869568406726.08</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1372702549670.74</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">605601125776.397</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1544362833124.66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">926278019169.329</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5799230194407.31</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1998</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">10838990107061.6</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">92001572327.044</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1806228669271.63</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1309395744920.36</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">581309368530.021</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1433265820067.97</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">861085431309.904</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5659922288884.61</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1997</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">10438145282457</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">83598618414.1038</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1740821782918.03</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1242227948248.22</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">566707320798.968</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1325390706952.34</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">839851865658.769</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5439753652930.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1996</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">9998473509942.61</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">81515834966.2626</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1710131603635.52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1212689169320.15</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">536579045100.636</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1230726731038.45</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">790146018792.466</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5303896697339.68</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1995</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">9652821990862.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">86974164002.7862</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1612077971187.94</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1138277786733.26</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">532327816015.001</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1198126586722.72</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">763443201382.206</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5176652691633.76</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1994</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">9371986504273.16</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">78499389971.3035</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1516197517845.49</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1059915357282.92</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">499981507750.398</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1130170017667.56</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">715024237282.756</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5106137779676.15</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1993</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">9050225877870.81</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">83742258652.1997</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1470153554722.96</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1024167790426.55</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">486673312349.388</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1109640480721.97</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">685104212955.363</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">5030709078627.93</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1992</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">8871005106672.35</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">77709368663.2925</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1466864094692.16</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1006482152086.93</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">481313066979.772</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1068961583442.21</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">654379886899.172</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4938244308202.04</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1991</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">8692420981108.05</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">75913865690.6321</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1501357814601.78</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1040442340600.63</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">520683145039.541</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1056700887765.91</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">636202667817.858</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4900666452853.38</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1990</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">8698772012707.32</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">71317378080.662</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1493603042144.45</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1049191087225.91</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">530664291589.452</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1061263007087.84</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">605317481416.296</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4780545909680.63</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1989</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">8552766103183.15</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">64853567378.478</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1508750890752.42</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">1057375398584.98</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">526782734597.632</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">1022675081162.46</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">586014239914.47</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4636784506815.59</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1988</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">8354423238113.23</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">70670997009.7359</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1401044977094.73</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">987573570670.857</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">498502819371.755</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">959470719733.608</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">564941534608.707</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4467518307063.25</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1987</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">7969955423493.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">68460060790.6368</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1307385884256.35</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">918470564295.175</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">489311335718.042</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">977996300806.819</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">523921336912.015</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4307506066290.92</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1986</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">7687729812112.18</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">67828364727.6038</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1307702562614.04</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">910101296747.011</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">490663024490.124</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">897075533481.162</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">508691065491.057</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4226498515970.24</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1985</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">7509057048392.63</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">58589809811.6855</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1275131275839.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">886689967253.773</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">447138646009.78</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">848317233296.104</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">507675714062.023</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">4104024381534.91</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1984</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">7247658514791.45</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49982950957.7893</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1174245661770.86</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">821771594651.693</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">398477850191.969</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">763279670177.183</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">471123062649.782</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3949354367731.84</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1983</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6812144676270.09</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">59932163945.2516</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1150582248678.2</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">797003086637.26</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">390638055310.338</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">718895465522.909</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">434164270666.316</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3888669173264.37</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1982</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6648004901980.5</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">58984619851.2076</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1207391722580.77</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">839754210059.195</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">413346426691.644</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">697796887078.908</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">431524356953.35</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3845689137517.26</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1981</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6658592251446.73</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">48324748793.2123</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1189460063183.29</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">812610639632.433</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">440650539900.231</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">664862520727.511</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">429899794668.448</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3780093246300.83</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1980</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6559488761506.18</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49667102926.7783</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1234729312252.66</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">871987199939.716</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">474442759218.367</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">690721144308.574</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">424823037527.158</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3673994500101.52</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1979</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6556001055657.79</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">46666546628.6352</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1252694173132.69</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">865088209123.725</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">471469043918.262</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">681972953246.127</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">402688376394.395</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3524282293181.86</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1978</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6386809471826.82</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49430216903.2673</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1216094550818.56</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">830253960409.876</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">453356414364.236</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">637074149117.695</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">379944504404.794</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3351072961650.4</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1977</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">6092324676962.36</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49785479276.3176</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1149011565203.49</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">796464552473.511</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">434313974995.635</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">602502729069.491</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">361846213562.745</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3238850311777.27</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1976</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5841827806969.7</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">51670364051.2579</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1073958884437.28</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">739770567153.385</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">411257891753.207</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">571045843580.982</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">340230435521.118</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3147391686863.91</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1975</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5601535520760.46</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49734516482.4072</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1142570532850.58</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">786363122207.056</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">446412426992.075</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">572402112572.912</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">342059115377.573</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3105962225880.06</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1974</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5665085741130.75</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">50598668201.8947</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1185756089483.1</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">818266472365.841</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">467969784934.473</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">578204926050.104</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">345757437774.281</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">3025055134761.56</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1973</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5658735512685.46</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49928027379.9245</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1085981700774.06</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">748294256145.407</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">457475512256.99</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">546722083407.734</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">326460571466.294</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">2910888923588.01</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1972</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5385260651776.77</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">49407320575.0849</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">1012259522814.02</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">697571297026.32</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">446840634220.654</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">505664167847.627</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">302166840607.937</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">2818873148513.39</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1971</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5144425807252.65</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Agriculture, hunting, forestry, fishing (ISIC A-B)</field>
+            <field name="Value">48182736345.0016</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Mining, Manufacturing, Utilities (ISIC C-E)</field>
+            <field name="Value">998658087378.908</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Manufacturing (ISIC D)</field>
+            <field name="Value">688492056096.912</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Construction (ISIC F)</field>
+            <field name="Value">461361333078.545</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Wholesale, retail trade, restaurants and hotels (ISIC G-H)</field>
+            <field name="Value">489199644761.921</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Transport, storage and communication (ISIC I)</field>
+            <field name="Value">292324793275.59</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Other Activities (ISIC J-P)</field>
+            <field name="Value">2756925823572.8</field>
+        </record>
+        <record>
+            <field name="Country or Area">United States</field>
+            <field name="Year">1970</field>
+            <field name="Item">Total Value Added</field>
+            <field name="Value">5057246461848.46</field>
+        </record>
+    </data>
+</ROOT>
