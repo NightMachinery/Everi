@@ -11,6 +11,7 @@ import processing.core._
 import scala.xml.XML
 import scala.xml._
 
+//noinspection ScalaUnnecessaryParentheses
 class GrossAddedByKindV extends ExtendedPApplet {
 
   import GrossAddedByKindV._
@@ -19,25 +20,25 @@ class GrossAddedByKindV extends ExtendedPApplet {
   val ecoData: Elem = XML.loadFile("/Users/evar/Downloads/- Java Code/PPad/Data/us value added UNdata_Export_20171117_203535446.xml")
   //http://data.un.org/Data.aspx?q=iran&d=SNAAMA&f=grID%3a202%3bcurrID%3aNCU%3bpcFlag%3a0%3bcrID%3a364
 
-  val agriRecs = (for {record <- ecoData \\ "record"
-                       field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Agri"))} yield record)
+  val agriRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Agri"))} yield record)
   //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val miningRecs = (for {record <- ecoData \\ "record"
-                         field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Minin"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val manufacturingRecs = (for {record <- ecoData \\ "record"
-                                field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Manufacturing"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val constructionRecs = (for {record <- ecoData \\ "record"
-                               field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Construction"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val wholesaleRecs = (for {record <- ecoData \\ "record"
-                            field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Wholesale"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val transportRecs = (for {record <- ecoData \\ "record"
-                            field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Transport"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val otherRecs = (for {record <- ecoData \\ "record"
-                        field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Other"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
-  val totalRecs = (for {record <- ecoData \\ "record"
-                        field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Total"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val miningRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                  field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Minin"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val manufacturingRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                         field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Manufacturing"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val constructionRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                        field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Construction"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val wholesaleRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                     field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Wholesale"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val transportRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                     field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Transport"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val otherRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                 field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Other"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
+  val totalRecs: NodeSeq = (for {record <- ecoData \\ "record"
+                                 field <- record \ "field" if (field \@ "name" == "Item" && field.text.startsWith("Total"))} yield record) //.sortWith((n1: Node, n2: Node) => n1 \@ "Year" < n2 \@ "Year")
 
-  override def setup() = {
+  override def setup(): Unit = {
     super.setup()
     surface.setResizable(true)
     setRecording(false)

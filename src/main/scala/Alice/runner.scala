@@ -6,6 +6,6 @@ import scala.xml.XML
 
 object runner {
   def main(args: Array[String]): Unit = {
-        PApplet.main(classOf[GrossAddedByKindV].getCanonicalName)
+        PApplet.main(classOf[Plasma].getCanonicalName)
   }
 }

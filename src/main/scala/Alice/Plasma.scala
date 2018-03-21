@@ -15,14 +15,13 @@ import UnbiasedColor._
 
 import scala.util.Random
 
-class Plasma extends Applet {
+class Plasma extends ExtendedPApplet {
   var myRand = new Random()
-  var Buffer: Image = _ //A buffer used to store the image
-  var Context: Graphics = _ //Used to draw to the buffer.
+
   //Randomly displaces color value for midpoint depending on size
   //of grid piece.
   def Displace(num: Float): Float = {
-    val max = num / (getSize.width + getSize.height).toFloat * 3
+    val max = num / (width + height).toFloat * 3
     (myRand.nextFloat() - 0.5f) * max
   }
 
@@ -46,7 +45,7 @@ class Plasma extends Applet {
 
   //This is something of a "helper function" to create an initial grid
   //before the recursive function is called.
-  def drawPlasma(g: Graphics, width: Int, height: Int): Unit = {
+  def drawPlasma(g: PGraphics, width: Int, height: Int): Unit = {
     var c1 = .0f
     var c2 = .0f
     var c3 = .0f
@@ -66,7 +65,7 @@ class Plasma extends Applet {
   //This is the recursive function that implements the random midpoint
   //displacement algorithm.  It will call itself until the grid pieces
   //become smaller than one pixel.
-  def DivideGrid(g: Graphics, x: Float, y: Float, width: Float, height: Float, c1: Float, c2: Float, c3: Float, c4: Float): Unit = {
+  def DivideGrid(g: PGraphics, x: Float, y: Float, width: Float, height: Float, c1: Float, c2: Float, c3: Float, c4: Float): Unit = {
     var Edge1 = .0f
     var Edge2 = .0f
     var Edge3 = .0f
@@ -92,34 +91,36 @@ class Plasma extends Applet {
     else { //This is the "base case," where each grid piece is less than the size of a pixel.
       //The four corners of the grid piece will be averaged and drawn as a single pixel.
       val c = (c1 + c2 + c3 + c4) / 4
-      g.setColor(ComputeColor(c))
-      g.drawRect(x.toInt, y.toInt, 1, 1) //Java doesn't have a function to draw a single pixel, so
-      //a 1 by 1 rectangle is used.
+      g.fillColor = ComputeColor(c).getRGB
+
+      g.rect(x.toInt, y.toInt, 1, 1)
     }
   }
 
-  //Draw a new plasma fractal whenever the applet is clicked.
-  override def mouseUp(evt: Event, x: Int, y: Int): Boolean = {
-    while (true){
-      drawPlasma(Context, getSize.width, getSize.height)
-      repaint() //Force the applet to draw the new plasma fractal.
-      Thread.sleep(1000)
-    }
-    false
+
+  override def setup(): Unit = {
+    super.setup()
+    surface.setResizable(true)
+    setRecording(false)
+    noStroke()
   }
 
-  //Whenever something temporarily obscures the applet, it must be redrawn manually.
-  //Since the fractal is stored in an offscreen buffer, this function only needs to
-  //draw the buffer to the screen again.
-  override def paint(g: Graphics): Unit = g.drawImage(Buffer, 0, 0, this)
-
-  override def getAppletInfo = "Plasma Fractal.  Written January, 2002 by Justin Seyster."
-
-  override def init(): Unit = {
-    setSize(700, 700)
-    Buffer = createImage(getSize.width, getSize.height) //Set up the graphics buffer and context.
-    Context = Buffer.getGraphics
-    drawPlasma(Context, getSize.width, getSize.height) //Draw the first plasma fractal.
+  override def settings(): Unit = {
+    super.settings()
+    size(700, 700)
+    setDefaultFrameRate(1)
+    setRecording(false)
+  }
+  override def draw(): Unit = {
+    background(255f)
+    drawPlasma(this.getGraphics, width, height)
+    fill(Color.pink.getRGB)
+    rect(10f,10f,10f,10f)
+    fill(Color.blue.getRGB)
+    rect(50f,50f,10f,10f)
+    fill(Color.green.getRGB)
+    rect(50f,500f,10f,10f)
+    this.getGraphics.updatePixels()
   }
 }
 

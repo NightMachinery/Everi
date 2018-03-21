@@ -7,10 +7,34 @@
 		revision="0.1"
 		conf="runtime-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180321213010"/>
+		date="20180322011126"/>
 	<dependencies>
+		<module organisation="org.jetbrains.kotlin" name="kotlin-stdlib">
+			<revision name="1.1.4-3" status="release" pubdate="20170829190548" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://kotlinlang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="13">
+				<license name="The Apache License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2815" time="0" location="/Users/evar/.ivy2/cache/org.jetbrains.kotlin/kotlin-stdlib/ivy-1.1.4-3.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.1.4-3/kotlin-stdlib-1.1.4-3.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="1.1.4-3" rev-constraint-default="1.1.4-3" rev-constraint-dynamic="1.1.4-3" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="kotlin-stdlib" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="356235" time="0" location="/Users/evar/.ivy2/cache/org.jetbrains.kotlin/kotlin-stdlib/srcs/kotlin-stdlib-1.1.4-3-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.1.4-3/kotlin-stdlib-1.1.4-3-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jetbrains" name="annotations">
+			<revision name="13.0" status="release" pubdate="20131217154043" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.jetbrains.org" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="10">
+				<license name="The Apache Software License, Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
+				<metadata-artifact status="no" details="" size="2908" time="0" location="/Users/evar/.ivy2/cache/org.jetbrains/annotations/ivy-13.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="13.0" rev-constraint-default="13.0" rev-constraint-dynamic="13.0" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="annotations" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="17566" time="0" location="/Users/evar/.ivy2/cache/org.jetbrains/annotations/srcs/annotations-13.0-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
 		<module organisation="org.scala-lang" name="scala-library">
-			<revision name="2.12.5" status="release" pubdate="20180316171746" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.5/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+			<revision name="2.12.5" status="release" pubdate="20180316171746" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.12.5/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="9">
 				<license name="BSD 3-Clause" url="http://www.scala-lang.org/license.html"/>
 				<metadata-artifact status="no" details="" size="2653" time="0" location="/Users/evar/.ivy2/cache/org.scala-lang/scala-library/ivy-2.12.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.5/scala-library-2.12.5.pom"/>
 				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.12.5" rev-constraint-default="2.12.5" rev-constraint-dynamic="2.12.5" callerrev="0.1" extra-info.apiURL="http://www.scala-lang.org/api/2.12.5/"/>
@@ -22,13 +46,184 @@
 			</revision>
 		</module>
 		<module organisation="org.scala-lang" name="scala-xml">
-			<revision name="2.11.0-M4" status="release" pubdate="20130711125358" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.0-M4/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="0">
+			<revision name="2.11.0-M4" status="release" pubdate="20130711125358" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://www.scala-lang.org/" extra-info.apiURL="http://www.scala-lang.org/api/2.11.0-M4/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="8">
 				<license name="BSD-like" url="http://www.scala-lang.org/downloads/license.html          "/>
 				<metadata-artifact status="no" details="" size="2665" time="0" location="/Users/evar/.ivy2/cache/org.scala-lang/scala-xml/ivy-2.11.0-M4.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/scala-lang/scala-xml/2.11.0-M4/scala-xml-2.11.0-M4.pom"/>
 				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.11.0-M4" rev-constraint-default="2.11.0-M4" rev-constraint-dynamic="2.11.0-M4" callerrev="0.1" extra-info.apiURL="http://www.scala-lang.org/api/2.11.0-M4/"/>
 				<artifacts>
 					<artifact name="scala-xml" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="107856" time="0" location="/Users/evar/.ivy2/cache/org.scala-lang/scala-xml/srcs/scala-xml-2.11.0-M4-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/scala-lang/scala-xml/2.11.0-M4/scala-xml-2.11.0-M4-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.processing" name="core">
+			<revision name="3.3.5" status="release" pubdate="20170719141604" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
+				<license name="GPLv2 with Classpath exception" url="http://www.gnu.org/software/classpath/license.html"/>
+				<metadata-artifact status="no" details="" size="4579" time="0" location="/Users/evar/.ivy2/cache/org.processing/core/ivy-3.3.5.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/processing/core/3.3.5/core-3.3.5.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="3.3.5" rev-constraint-default="3.3.5" rev-constraint-dynamic="3.3.5" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="888047" time="0" location="/Users/evar/.ivy2/cache/org.processing/core/srcs/core-3.3.5-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/processing/core/3.3.5/core-3.3.5-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="nativewindow-main">
+			<revision name="2.3.2" status="release" pubdate="20151010181128" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="11">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="4949" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/nativewindow-main/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/nativewindow-main/2.3.2/nativewindow-main-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="nativewindow-main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/nativewindow-main/srcs/nativewindow-main-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/nativewindow-main/2.3.2/nativewindow-main-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="newt-main">
+			<revision name="2.3.2" status="release" pubdate="20151010181302" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="12">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="5590" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/newt-main/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/newt-main/2.3.2/newt-main-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="newt-main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/newt-main/srcs/newt-main-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/newt-main/2.3.2/newt-main-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="newt">
+			<revision name="2.3.2" status="release" pubdate="20151010181142" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="14">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="3067" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/newt/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/newt/2.3.2/newt-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="newt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/newt/srcs/newt-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/newt/2.3.2/newt-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="jogl-all-main">
+			<revision name="2.3.2" status="release" pubdate="20151010180743" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="6">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="4554" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl-all-main/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl-all-main/2.3.2/jogl-all-main-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jogl-all-main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl-all-main/srcs/jogl-all-main-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl-all-main/2.3.2/jogl-all-main-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="jogl">
+			<revision name="2.3.2" status="release" pubdate="20151010180345" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="5">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="3062" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl/2.3.2/jogl-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jogl" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="24220878" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl/srcs/jogl-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl/2.3.2/jogl-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.gluegen" name="gluegen-rt-main">
+			<revision name="2.3.2" status="release" pubdate="20151010175928" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/gluegen/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="4">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="BSD-4 License" url="http://www.spdx.org/licenses/BSD-4-Clause"/>
+				<metadata-artifact status="no" details="" size="4282" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.gluegen/gluegen-rt-main/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/gluegen/gluegen-rt-main/2.3.2/gluegen-rt-main-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="gluegen-rt-main" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.gluegen/gluegen-rt-main/srcs/gluegen-rt-main-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/gluegen/gluegen-rt-main/2.3.2/gluegen-rt-main-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.gluegen" name="gluegen-rt">
+			<revision name="2.3.2" status="release" pubdate="20151010175802" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/gluegen/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="3">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="BSD-4 License" url="http://www.spdx.org/licenses/BSD-4-Clause"/>
+				<metadata-artifact status="no" details="" size="2750" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.gluegen/gluegen-rt/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="gluegen-rt" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="4156001" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.gluegen/gluegen-rt/srcs/gluegen-rt-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/gluegen/gluegen-rt/2.3.2/gluegen-rt-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="nativewindow">
+			<revision name="2.3.2" status="release" pubdate="20151010181035" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="2">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="3092" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/nativewindow/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/nativewindow/2.3.2/nativewindow-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="nativewindow" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="345" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/nativewindow/srcs/nativewindow-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/nativewindow/2.3.2/nativewindow-2.3.2-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jbox2d" name="jbox2d-library">
+			<revision name="2.2.1.1" status="release" pubdate="20130410031342" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://code.google.com/p/jbox2d/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="1">
+				<license name="Simplified BSD License" url="http://www.opensource.org/licenses/bsd-license.php"/>
+				<metadata-artifact status="no" details="" size="3390" time="0" location="/Users/evar/.ivy2/cache/org.jbox2d/jbox2d-library/ivy-2.2.1.1.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jbox2d/jbox2d-library/2.2.1.1/jbox2d-library-2.2.1.1.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.2.1.1" rev-constraint-default="2.2.1.1" rev-constraint-dynamic="2.2.1.1" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jbox2d-library" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="273487" time="0" location="/Users/evar/.ivy2/cache/org.jbox2d/jbox2d-library/srcs/jbox2d-library-2.2.1.1-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jbox2d/jbox2d-library/2.2.1.1/jbox2d-library-2.2.1.1-sources.jar"/>
+					</artifact>
+				</artifacts>
+			</revision>
+		</module>
+		<module organisation="org.jogamp.jogl" name="jogl-all">
+			<revision name="2.3.2" status="release" pubdate="20151010180557" resolver="sbt-chain" artresolver="sbt-chain" homepage="http://jogamp.org/jogl/www/" downloaded="false" searched="false" default="false" conf="compile, runtime(*), master(compile), runtime, compile(*), master" position="0">
+				<license name="BSD-2 License" url="http://www.opensource.org/licenses/BSD-2-Clause"/>
+				<license name="BSD-3 License" url="http://www.opensource.org/licenses/BSD-3-Clause"/>
+				<license name="SGI Free Software License B" url="http://oss.sgi.com/projects/FreeB"/>
+				<license name="Apache License Version 2.0" url="http://www.apache.org/licenses/LICENSE-2.0"/>
+				<license name="Apache License Version 1.1" url="http://www.apache.org/licenses/LICENSE-1.1"/>
+				<license name="Ubuntu Font Licence 1.0" url="http://font.ubuntu.com/ufl/ubuntu-font-licence-1.0.txt"/>
+				<metadata-artifact status="no" details="" size="3051" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl-all/ivy-2.3.2.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2.pom"/>
+				<caller organisation="default" name="everi$sources" conf="compile, runtime-internal, runtime, optional" rev="2.3.2" rev-constraint-default="2.3.2" rev-constraint-dynamic="2.3.2" callerrev="0.1"/>
+				<artifacts>
+					<artifact name="jogl-all" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="24220878" time="0" location="/Users/evar/.ivy2/cache/org.jogamp.jogl/jogl-all/srcs/jogl-all-2.3.2-sources.jar">
+						<origin-location is-local="false" location="https://repo1.maven.org/maven2/org/jogamp/jogl/jogl-all/2.3.2/jogl-all-2.3.2-sources.jar"/>
 					</artifact>
 				</artifacts>
 			</revision>

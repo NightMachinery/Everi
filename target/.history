@@ -1,1 +1,5 @@
 show compile:unmanagedJars
+update-classifiers
+updateClassifiers
+updateSbtClassifiers
+updateClassifiers
