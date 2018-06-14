@@ -7,7 +7,7 @@
 		revision="0.1"
 		conf="runtime"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
-		date="20180322011126"/>
+		date="20180324204645"/>
 	<dependencies>
 		<module organisation="org.jetbrains.kotlin" name="kotlin-stdlib">
 			<revision name="1.1.4-3" status="release" pubdate="20170829190548" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://kotlinlang.org/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="13">

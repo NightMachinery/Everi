@@ -1,11 +1,13 @@
 <component name="libraryTable">
   <library name="sbt: org.jetbrains.kotlin:kotlin-stdlib:1.1.4-3:jar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/org.jetbrains.kotlin/kotlin-stdlib/jars/kotlin-stdlib-1.1.4-3.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.1.4-3/kotlin-stdlib-1.1.4-3.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.1.4-3/kotlin-stdlib-1.1.4-3-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.ivy2/cache/org.jetbrains.kotlin/kotlin-stdlib/srcs/kotlin-stdlib-1.1.4-3-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.1.4-3/kotlin-stdlib-1.1.4-3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
