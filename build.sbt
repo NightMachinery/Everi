@@ -13,6 +13,6 @@ libraryDependencies ++= Seq(
   "org.jetbrains.kotlin" %  "kotlin-test" % "1.1.4-3" % "test",
   "org.jbox2d" %  "jbox2d-library" % "2.2.1.1" withSources(),
   "org.scalatest"     %% "scalatest"   % "3.0.3" % Test withSources(),
-  "junit"             %  "junit"       % "4.13"  % Test,
+  "junit"             %  "junit"       % "4.13.2"  % Test,
   "org.scala-lang" % "scala-xml" % "2.11.0-M4"
 )
