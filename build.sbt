@@ -4,7 +4,7 @@ name := "Everi"
 
 version := "0.1"
 
-scalaVersion := "2.12.5"
+scalaVersion := "2.13.15"
 
 libraryDependencies ++= Seq(
   "org.jogamp.jogl" %  "jogl-all-main" % "2.3.2",
