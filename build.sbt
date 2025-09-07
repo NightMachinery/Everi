@@ -7,7 +7,7 @@ version := "0.1"
 scalaVersion := "2.12.5"
 
 libraryDependencies ++= Seq(
-  "org.jogamp.jogl" %  "jogl-all-main" % "2.3.2",
+  "org.jogamp.jogl" %  "jogl-all-main" % "2.6.0",
   "org.processing" %  "core" % "3.3.5" withSources(),
   "org.jetbrains.kotlin" %  "kotlin-stdlib" % "1.3.72",
   "org.jetbrains.kotlin" %  "kotlin-test" % "1.1.4-3" % "test",
